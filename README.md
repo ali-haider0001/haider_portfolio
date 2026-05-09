@@ -47,5 +47,5 @@ Resume is available inside the portfolio website.
 ---
 
 ## 🌐 Live Portfolio
-npx plugins add vercel/vercel-plugin
+[https://haider-portfolio-m5ttpbs6p-ali-haider0001s-projects.vercel.app](https://haider-portfolio-m5ttpbs6p-ali-haider0001s-projects.vercel.app/)
 
